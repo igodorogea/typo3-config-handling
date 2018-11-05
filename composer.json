@@ -1,5 +1,5 @@
 {
-    "name": "helhum/typo3-config-handling",
+    "name": "igodorogea/typo3-config-handling",
     "description" : "Simple but powerful configuration handling for TYPO3 CMS",
     "license": "GPL-2.0-or-later",
     "require": {
